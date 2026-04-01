@@ -1,5 +1,7 @@
 # Cloud-code 破解版
 
+[English](./README.en.md) | 简体中文
+
 ## 源码学习文档
 欢迎体验：https://cloud-code-study.vercel.app/
 - https://github.com/Janlaywss/cloud-code-study
